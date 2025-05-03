@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakyaafrinbristi&label=Profile%20views&color=0e75b6&style=flat" alt="jakyaafrinbristi" /> </p>
 
 <p align="left">
-🔭 I’m currently working on **full-stack web projects** using MERN. <br>
+🔭 I’m currently working on **mern-stack web projects** using MERN. <br>
 🌱 I’m currently learning **Next.js, TypeScript**, and **advanced backend concepts**. <br>
 👨‍💻 Check out all my projects at: [My Portfolio](https://my-nextjs-portfolio-gamma.vercel.app/) <br>
 💬 Ask me about **MERN stack, Firebase, REST APIs, or any project idea!** <br>
