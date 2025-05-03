@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jakya Afrin Bristi</h1>
-<h3 align="center">MernStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<h3 align="center">MERN Stack Developer | Passionate Coder | Continuous Learner</h3>
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakyaafrinbristi&label=Profile%20views&color=0e75b6&style=flat" alt="jakyaafrinbristi" /> </p>
 
@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👨‍💻 All of my projects are available at [https://my-nextjs-portfolio-gamma.vercel.app/](https://my-nextjs-portfolio-gamma.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://my-nextjs-portfolio-gamma.vercel.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN stack, Firebase, REST APIs, or any project idea!** <br>
 
 - 📫 How to reach me **jakyaafrinb@gmail.com**
 
-- ⚡ Fun fact **I am too much Funny**
+- ⚡ Fun fact **I turn coffee into code and bugs into features!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
