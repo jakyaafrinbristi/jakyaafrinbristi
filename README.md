@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/jakyaafrinbristi/jakyaafrinbristi/blob/main/Your%20paragraph%20text.png?raw=true" alt="Cover Image" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Jakya Afrin Bristi</h1>
 <h3 align="center">MERN Stack Developer | Passionate Coder | Continuous Learner</h3>
 
