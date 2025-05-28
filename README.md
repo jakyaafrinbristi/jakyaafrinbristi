@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/TDPnDrND/Blue-Modern-Web-Developer-Linked-In-Banner.png" alt="Cover Photo" />
+</p
 <h1 align="center">Hi 👋, I'm Jakya Afrin Bristi</h1>
 <h3 align="center">MernStack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
