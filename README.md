@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jakyaafrinbristi/jakyaafrinbristi/blob/main/Your%20paragraph%20text.png?raw=true" alt="Cover Image" />
+  <img src="https://i.ibb.co/LWbBDwf/Blue-Modern-Web-Developer-Linked-In-Banner.png" alt="Cover Image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jakya Afrin Bristi</h1>
